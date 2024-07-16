@@ -20,9 +20,3 @@
 ![HTML](https://img.shields.io/badge/HTML-A1DD70?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-D2649A?&style=for-the-badge&logo=css3&logoColor=white)
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/mylinhnh/mylinhnh/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
